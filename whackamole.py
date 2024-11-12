@@ -1,7 +1,7 @@
 import pygame
 import random
 
-HEADER = "Whack-A-Mole"
+HEADER = "Lab 10: Whack-a-mole!"
 
 WIDTH, HEIGHT = 640, 512
 COL, ROW = 20, 16
